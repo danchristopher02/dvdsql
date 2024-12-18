@@ -20,7 +20,7 @@ The report involves two primary tables that will be made from extracting the raw
   
 
 ## Youtube Video of me explaining my SQL code
-[Video Explanation](https://www.youtube.com/watch?v=VIDEO_ID)
+[Video Explanation](https://www.youtube.com/watch?v=nR9F7SjP1s8&t=348s)
 
 ## Data and Fields
 
