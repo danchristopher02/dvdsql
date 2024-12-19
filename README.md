@@ -19,7 +19,7 @@ The report involves two primary tables that will be made from extracting the raw
    - Helps identify trends in DVD category popularity at the store level.
   
 
-## Youtube Video of me explaining my SQL code
+## Youtube Video of Me Explaining my SQL code
 [Video Explanation](https://www.youtube.com/watch?v=nR9F7SjP1s8&t=348s)
 
 ## Data and Fields
